@@ -1,0 +1,4 @@
+        Name Item purchased  Price
+Shop 1  Alif            AAA  31.22
+Shop 2   Bay            BBB  21.50
+Shop 3   Tay            CCC  50.90
