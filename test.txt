@@ -1,4 +1,5 @@
-        Name Item purchased  Price
-Shop 1  Alif            AAA  31.22
-Shop 2   Bay            BBB  21.50
-Shop 3   Tay            CCC  50.90
+               Item Purchased  Cost
+Location Name                      
+Store 1  Chris       Dog Food  22.5
+         Kevyn   Kitty Litter   2.5
+Store 2  Vinod      Bird Seed   5.0
