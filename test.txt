@@ -1,5 +1,0 @@
-               Item Purchased  Cost
-Location Name                      
-Store 1  Chris       Dog Food  22.5
-         Kevyn   Kitty Litter   2.5
-Store 2  Vinod      Bird Seed   5.0
